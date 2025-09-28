@@ -1,0 +1,9 @@
+{
+    "anchored_boat": "Vous avez ancrée le bateaux",
+    "boat_dont_anchored": "Vous ne pouvez ancrée le bateaux ici",
+    "boat_already_anchored": "Le bateaux est déjà ancrée",
+    "unanchored_boat": "Le bateaux est désancrer",
+    "model_not_boat": "Vous n'êtes pas sur un bateaux",
+    "boat_too_fast": "Le bateaux est trop rapide",
+    "nothing_boat": "Aucun bateaux trouver"
+}

@@ -1,0 +1,9 @@
+{
+    "anchored_boat": "Du hast das Boot verankert",
+    "boat_dont_anchored": "Du kannst das Boot hier nicht verankern",
+    "boat_already_anchored": "Das Boot ist bereits verankert",
+    "unanchored_boat": "Das Boot wurde losgemacht",
+    "model_not_boat": "Du befindest dich nicht auf einem Boot",
+    "boat_too_fast": "Das Boot ist zu schnell (10 km/h)",
+    "nothing_boat": "Keine Boote gefunden"
+}

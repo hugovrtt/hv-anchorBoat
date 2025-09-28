@@ -1,0 +1,9 @@
+{
+    "anchored_boat": "You anchored the boat",
+    "boat_dont_anchored": "You cannot anchor the boat here",
+    "boat_already_anchored": "The boat is already anchored",
+    "unanchored_boat": "The boat is unanchored",
+    "model_not_boat": "You are not on a boat",
+    "boat_too_fast": "The boat is too fast (6.2 mph)",
+    "nothing_boat": "No boats found"
+}
