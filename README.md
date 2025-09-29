@@ -1,13 +1,13 @@
 # hv-anchorBoat
 
-Script d’ancrage de bateaux pour FiveM.  
-Compatible **multi-framework** : ESX, QBCore Standalone, QBox, OX.
+Boat anchoring script for FiveM.  
+**Multi-framework** compatible: ESX, QBCore Standalone, QBox, OX.
 
 ---
 
 ## Features
-- Poser ou relever l’ancre d’un bateau facilement
-- Compatible avec plusieurs frameworks
+- Easily drop or raise a boat's anchor
+- Compatible with multiple frameworks
 
 ---
 
